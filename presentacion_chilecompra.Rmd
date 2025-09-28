@@ -25,9 +25,9 @@ class: center, middle
 
 ## Experiencias relevantes y aportes para el cargo
 
-### Proceso de selección cargo Jefatura Depto Observatorio ChileCompra
+### Proceso de selección cargo Jefatura Dpto. Estudios y Políticas de Compra
 
-#### 21 de Abril 2022
+#### 29 de Septiembre 2025
 
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = TRUE)
@@ -54,31 +54,44 @@ background-position: 100% 0%
 
 --
 
-- .medium-par[Ignacio Agloni]
+Ignacio Agloni
 
 --
 
-- .medium-par[Sociólogo, Universidad de Chile]
+.medium-par[Sociólogo, Universidad de Chile]
 
 --
 
-- .medium-par[Magister**(c)** en Tecnologías de la Información, Universidad de Chile]
+- .medium-par[Magister(c) en Tecnologías de la Información, Universidad de Chile]
+
 
 --
 
-  - Diplomado en Inteligencia Artificial, Universidad de Chile
+  Diplomado Nueva Protección de Datos Personales en Chile: U. Central
 
 --
 
-  - Diplomado en Big Data para Políticas Públicas, UAI
+   Diplomado en Ingeniería de Software, U. de Chile 
 
 --
 
-- .medium-par[Jefe de Proyecto Servicios Compartidos para la Producción Estadística, INE]
+   Diplomado en Inteligencia Artificial, U. de Chile
 
 --
 
-- .medium-par[Jefe de Proyecto Piloto por cambio de marco Casen 2022, INE con MDSF]
+   Diplomado en Big Data para Políticas Públicas, UAI
+
+--
+
+- .medium-par[Jefe de Proyecto Ciencia de Datos, INE]
+
+--
+
+- .medium-par[Jefe de Proyecto Servicios Compartidos, INE]
+
+--
+
+- .medium-par[Jefe de Proyecto Piloto Casen 2022, INE con MDSF]
 
 ---
 
@@ -90,20 +103,43 @@ background-position: 100% 0%
 
 --
 
-- **Liderazgo en desarrollo de iniciativas de modernización tecnológica** para mejorar la **eficiencia y eficacia** en el negocio
+1. **Liderazgo en desarrollo de iniciativas de modernización tecnológica** para mejorar la **eficiencia y eficacia** en el negocio
 
 --
 
-.pull-left[**Paquete en R para** evaluación de precisión de estimaciones en encuestas. Link repositorio en GitHub: [paquete calidad](https://github.com/inesscc/calidad)]
-
-
-.pull-rigth[<img src="imagenes/calidad.gif" width="280">]
+.pull-left[Arquitectura y administración  de **datalake institucional**
+<br/>
+<br/>
+<img src="imagenes/minio.PNG" width="280">]
 
 --
 
-.pull-left[API para **codificación automática** de clasificadores con *machine learning*. Link repositorio en GitHub: [INE classifiers](https://github.com/inesscc/ineclassifiers)]
+.pull-rigth[<br/>
+<br/>
+<br/>
+<img src="imagenes/jupyterhub.gif" width="400">]
 
-.pull-rigth[<img src="imagenes/api_classifiers.gif" width="280">]
+
+---
+
+background-image: url("imagenes/fondo-cc-up.PNG")
+background-size: contain;
+background-position: 100% 0%
+
+# Experiencias relevantes para el cargo
+
+--
+
+1. **Liderazgo en desarrollo de iniciativas de modernización tecnológica** para mejorar la **eficiencia y eficacia** en el negocio
+
+--
+
+.pull-left[Creación y mantención de API para **codificación automática** de clasificadores con *machine learning*. [Link tutorial en web INE](https://www.ine.gob.cl/calidad-estadistica/clasificaciones/api-codificacion)
+<br/>
+<br/>
+<img src="imagenes/tutorial_api.PNG" width="280">]
+
+.pull-rigth[<br/><img src="imagenes/api_classifiers.gif" width="280">]
 
 ---
 
@@ -114,30 +150,111 @@ background-position: 100% 0%
 # Experiencias relevantes para el cargo
 
 
-- **Liderazgo en desarrollo de iniciativas de modernización tecnológica** para mejorar la **eficiencia y eficacia** en el negocio
+1. **Liderazgo en desarrollo de iniciativas de modernización tecnológica** para mejorar la **eficiencia y eficacia** en el negocio
 
-</br>
+.pull-left[Gestión del desarrollo y mantención aplicación web **¿Dónde está el Censo?** [Link aparición en prensa](https://www.t13.cl/noticia/nacional/donde-esta-censo-revisa-donde-estan-encuestadores-tu-comuna-9-3-2024) 
+<br/>
+<br/>
+<img src="imagenes/prensa.PNG" width="280">]
+
+.pull-rigth[<br/>
+<br/>
+<br/>
+<img src="imagenes/dondeestaelcenso.PNG" width="400">
+<img src="imagenes/dondeestaelcenso2.PNG" width="400">]
+
+---
+
+background-image: url("imagenes/fondo-cc-up.PNG")
+background-size: contain;
+background-position: 100% 0%
+
+# Experiencias relevantes para el cargo
+
+
+1. **Liderazgo en desarrollo de iniciativas de modernización tecnológica** para mejorar la **eficiencia y eficacia** en el negocio
 
 --
 
-**Capacitación institucional R y herramientas de productividad** (aprox 180 personas)
+.pull-left[Diseño y mantención de **dashboards de paradatos** para el seguimiento operativo de encuestas (60 a 120 millones de registros).  
+<br/>
+<br/>
+<img src="imagenes/cantidad_respuesta.jpg" width="400">]
 
-
---
-
-Diseño de estándares de **arquitecturas de información** para procesamiento de datos
-
---
-
-</br>
-
-- Experiencia en **manejo de presupuestos en el Estado** y como **comprador público**
-
-</br>
+.pull-rigth[<br/>
+<br/>
+<br/>
+<img src="imagenes/tiempo_promedio.png" width="400">]
 
 --
 
-Gestión presupuestaria piloto Casen 2022
+**Capacitación en R y herramientas de productividad** (más de 250 funcionarios a la fecha) [repositorio R básico](https://github.com/Capacitacion-R-basico) / [repositorio R intermedio](https://github.com/clases-r-intermedio)
+
+--
+
+Diseño de **estándares para procesamiento de datos** en el INE
+
+---
+
+background-image: url("imagenes/fondo-cc-up.PNG")
+background-size: contain;
+background-position: 100% 0%
+
+# Experiencias relevantes para el cargo
+
+<ol>
+  <li value="2">Desarrollo de <strong>servicios transversales</strong> para la institución</li>
+</ol>
+
+--
+
+.pull-left[Desarrollo y mantención de **anonimizador de documentos** administrativos con inteligencia artificial.  
+<br/>
+<br/>
+<img src="imagenes/layout_innominacion.png" width="200">]
+
+.pull-rigth[<br/>
+<br/>
+<br/>
+<img src="imagenes/ej_informe1.png" width="200">
+<img src="imagenes/informe-innominado.JPG" width="200">]
+
+--
+
+<br/>
+
+Desarrollo de **aplicación para formulación presupuestaria**
+
+---
+
+background-image: url("imagenes/fondo-cc-up.PNG")
+background-size: contain;
+background-position: 100% 0%
+
+# Experiencias relevantes para el cargo
+
+--
+
+<ol>
+  <li value="3"><strong>Generación de la gobernanza de datos</strong> en el INE</li>
+</ol>
+
+-Creación de **políticas, protocolos y procesos** para la gestión y uso de datos<br/>
+-Diseño y administración de **datalake para la gobernanza de activos** de información<br/>
+-Impulso de la **gestión del cambio** institucional en torno a la eficiencia y protección de datos
+
+--
+
+<ol>
+  <li value="4">Experiencia en <strong>manejo de presupuestos en el Estado</strong> y como <strong>comprador público</strong></li>
+</ol>
+
+--
+
+<ol>
+  <li value="5">5 años de experiencia <strong>liderando equipos de alto desempeño técnico en el Estado</strong></li>
+</ol>
+
 
 ---
 
@@ -151,23 +268,23 @@ background-position: 100% 0%
 
 </br>
 
-- Conocimiento en **validación**, **depuración** y **analítica** aplicable a los datos producidos para la labor de fiscalización del observatorio
+- Conocimiento en implementación de **pipelines de extracción, transformación y carga (ETL) automatizados** para asegurar la **calidad de los datos** en el datawrehouse institucional
 
 --
 
-- Revisión y mejora de **arquitecturas de información** en el Observatorio 
+- Conocimiento aplicado en proyectos de **ciencia de datos e inteligencia artificial**, posibles de utilizar en la realización de estudios y modelos predictivos desde el departamento
 
 --
 
-- Revisión y mejora de flujos de procesamiento de datos para lograr **reproducibilidad**, **replicabilidad**, **trazabilidad**
+- Generación de la **gobernanza de datos en ChileCompra**, a partir de la experiencia obtenida en el cargo en el INE
 
 --
 
-- **Reportería automatizada** de indicadores para clientes internos y usuarios externos
+- Vasta experiencia aplicable en la generación de **dashboards de indicadores** para el seguimiento del comportamiento de usuarios de las plataformas y del sistema de compras públicas en general
 
 --
 
-- Generación de *dashboards* de indicadores y visualizaciones para difundir el trabajo del Depto con el ecosistema de compras públicas y la ciudadanía, desde una perspectiva de **probidad** y **transparencia**
+- Vasta experiencia aplicable en la generación de **visualizaciones** que sirvan a **clientes internos y externos de ChileCompra**, desde una perspectiva de probidad y transparencia
 
 ---
 
@@ -181,11 +298,11 @@ background-position: 100% 0%
 
 </br>
 
-- Investigar e implementar **metodologías de *machine learning* e IA para construir herramientas de prevención y detección de errores**, con alto potencial en detección temprana y priorización de revisión directa.
+- **Conocimiento en diseños de investigación**, sólidos en lo cuantitativo y suficientes en lo cualitativo
 
 --
 
-- **Estimular un buen clima de trabajo en el equipo** y el **aprendizaje continuo** de herramientas de productividad
+- Preocucupación especial por estimular un **buen clima de trabajo** en el equipo y el **desarrollo profesional continuo** de sus integrantes
 
 ---
 
@@ -200,6 +317,6 @@ class: center, middle
 
 ## Experiencias relevantes y aportes para el cargo
 
-### Proceso de selección cargo Jefatura Depto Observatorio ChileCompra
+### Proceso de selección cargo Jefatura Dpto. Estudios y Políticas de Compra
 
-#### 21 de Abril 2022
+#### 29 de Septiembre 2025
