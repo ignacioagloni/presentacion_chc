@@ -1,6 +1,6 @@
 ---
-title: "Capacitación en R y herramientas de productividad"
-subtitle: "Sesión 1"  
+title: "Presentación ChhileCompra"
+subtitle: "Jefatura Depto de Estudios y Políticas de Compra"  
 author: 
 date: '`r Sys.Date()`'
 output:
@@ -50,11 +50,7 @@ background-image: url("imagenes/fondo-cc-up.PNG")
 background-size: contain;
 background-position: 100% 0%
 
-# Presentación
-
---
-
-Ignacio Agloni
+# Ignacio Agloni
 
 --
 
@@ -62,36 +58,40 @@ Ignacio Agloni
 
 --
 
-- .medium-par[Magister(c) en Tecnologías de la Información, Universidad de Chile]
+.medium-par[Magister(c) en Tecnologías de la Información, Universidad de Chile]
 
 
 --
 
-  Diplomado Nueva Protección de Datos Personales en Chile: U. Central
+- Diplomado Nueva Protección de Datos Personales en Chile: U. Central
 
 --
 
-   Diplomado en Ingeniería de Software, U. de Chile 
+- Diplomado en Ingeniería de Software, U. de Chile 
 
 --
 
-   Diplomado en Inteligencia Artificial, U. de Chile
+- Diplomado en Inteligencia Artificial, U. de Chile
 
 --
 
-   Diplomado en Big Data para Políticas Públicas, UAI
+- Diplomado en Big Data para Políticas Públicas, UAI
 
 --
 
-- .medium-par[Jefe de Proyecto Ciencia de Datos, INE]
+.medium-par[Jefe de Unidad de Gobierno de Datos, INE]
 
 --
 
-- .medium-par[Jefe de Proyecto Servicios Compartidos, INE]
+.medium-par[Jefe de Proyecto Ciencia de Datos, INE]
 
 --
 
-- .medium-par[Jefe de Proyecto Piloto Casen 2022, INE con MDSF]
+.medium-par[Jefe de Proyecto Piloto Casen 2022, INE con MDSF]
+
+--
+
+.medium-par[Jefe de Proyecto Servicios Compartidos, INE]
 
 ---
 
